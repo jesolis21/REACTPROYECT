@@ -1,0 +1,26 @@
+.contenedor-gral{
+    width: 1200px;
+    height: 600px;
+    margin: 10px 10px 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    box-shadow: 0 3px 13px 1px;
+}
+
+.imagenjess{
+
+    width: 270px;
+    height: 300px;
+    padding: 20px;
+    margin: 0 3px 13px 1px ;
+}
+
+.contenedortexto{
+    
+    padding: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    line-height: 1.5rem;
+    font-size: 18px;
+}

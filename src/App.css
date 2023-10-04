@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+html,
+body {
+    font-size: 18px;
+    background-color: rgb(236, 231, 225);
+
+}
+h1{
+    max-width: 940px;
+    font-size: 2.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 40px 0;
+}
+.app{
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.contenedorprincipal{
+    min-height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
